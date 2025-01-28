@@ -2,7 +2,7 @@
 
 //Javascripts topics
 
-_STEPS_ _TOPICS_ -->Theory<--
+_--STEPS--_  _--TOPICS--_ -->Theory<--
 
 1.          Basics of javascript         Learn about variables,datatypes,operators and expression
 
