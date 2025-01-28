@@ -1,4 +1,4 @@
-# Javascript
+#Learn  Javascript
 
 //Javascripts topics
 
@@ -41,33 +41,41 @@ _--STEPS--_  _--TOPICS--_ -->Theory<--
 <br>
 
 10. Promises and Async/Await
+
+ <br>
+
+12. Error Handling
+
+<br>
+
+13. Classes
+
+ <br>
+
+14. Modules
+
+<br>
+
+15. Browser Storages
+
+ <br>
+
+16. Regular Expressions(Regex)
+
+ <br>
+
+18. Date and Time
+
+ <br>
+
+20. Closures
+
+ <br>
+
+22. Prototypes and Inheritance
     <br>
 
-11. Error Handling
+23. Events and Async Flow
     <br>
 
-12. Classes
-    <br>
-
-13. Modules
-    <br>
-
-14. Browser Storages
-    <br>
-
-15. Regular Expressions(Regex)
-    <br>
-
-16. Date and Time
-    <br>
-
-17. Closures
-    <br>
-
-18. Prototypes and Inheritance
-    <br>
-
-19. Events and Async Flow
-    <br>
-
-20. Advanced Frameworks/Tools
+24. Advanced Frameworks/Tools
